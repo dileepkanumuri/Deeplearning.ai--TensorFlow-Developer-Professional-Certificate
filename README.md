@@ -21,7 +21,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
   - **Week 2**
       - [2. Implementing Callbacks in TensorFlow using the MNIST](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/2.%20Implementing%20Callbacks%20in%20TensorFlow%20using%20the%20MNIST.ipynb)
   - **Week 3**
-      - [3. Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/3.%20Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20(MRI).ipynb)
+      - [3. Improve MNIST with convolutions](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/3.%20Improve%20MNIST%20with%20convolutions.ipynb)
   
      ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   
