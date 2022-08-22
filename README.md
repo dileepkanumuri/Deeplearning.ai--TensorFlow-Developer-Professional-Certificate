@@ -16,7 +16,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
 ### Course 1: [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/ai-for-medical-diagnosis)
   
   - **Week 1** 
-      - [1. Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/1.%20Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb)
+      - [1.Housing Prices](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/1.%20Housing%20Prices.ipynb)
    
   - **Week 2**
       - [2. Evaluation of Diagnostic Models](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/2.%20Evaluation%20of%20Diagnostic%20Models.ipynb)  
