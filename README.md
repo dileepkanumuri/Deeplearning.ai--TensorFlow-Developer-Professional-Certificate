@@ -1,6 +1,6 @@
-# Coursera AI for Medicine Specialization (offered by deeplearning.ai)
+# Coursera DeepLearning.AI TensorFlow Developer (offered by deeplearning.ai)
 
-Programming assignments, labs and quizzes from all courses in the Coursera [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) offered by `deeplearning.ai`.
+Programming assignments, labs and quizzes from all courses in the Coursera [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) offered by `deeplearning.ai`.
 
 **Instructors**: `Pranav Rajpurkar`, `Bora Uyumazturk`, `Amirhossein Kiani` and `Eddy Shyu`.
 
