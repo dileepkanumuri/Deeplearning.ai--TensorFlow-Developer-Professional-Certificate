@@ -38,7 +38,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
       - [Transfer Learning - Horses vs Humans](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/3.%20Transfer%20Learning%20-%20Horses%20vs%20Humans.ipynb)
   
   - **Week 4** 
-      - [Cox Proportional Hazards and Random Survival Forests](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/4.%20Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
+      - [Classification Beyond two classes](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/4.%20Classification%20Beyond%20two%20classes.ipynb)
  
 ### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
