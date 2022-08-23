@@ -35,7 +35,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
       - [Cats vs Dogs with Data Augmentation](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/2.%20Cats%20vs%20Dogs%20with%20Data%20Augmentation.ipynb)
    
   - **Week 3** 
-      - [Non-Parametric Estimators for Survival Analysis](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/3.%20Survival%20Estimates%20that%20Vary%20with%20Time.ipynb)
+      - [Transfer Learning - Horses vs Humans](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/3.%20Survival%20Estimates%20that%20Vary%20with%20Time.ipynb)
   
   - **Week 4** 
       - [Cox Proportional Hazards and Random Survival Forests](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/4.%20Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
