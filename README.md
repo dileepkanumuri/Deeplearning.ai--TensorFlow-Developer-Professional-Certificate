@@ -26,13 +26,13 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
       - [4. Handling Complex Images](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/4.%20Handling%20Complex%20Images.ipynb)
 
   
-     ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
+     ### Course 2: [Convolutional Neural Networks in TensorFlow](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
   
   - **Week 1**
-      - [Diagnosing Diseases using Linear Risk Models](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/1.%20Build%20and%20Evaluate%20a%20Linear%20Risk%20model.ipynb)
+      - [Cats vs Dogs](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/1.%20Cats%20vs%20Dogs.ipynb)
    
   - **Week 2** 
-      - [Risk Models Using Machine Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/2.%20Risk%20Models%20Using%20Tree-based%20Models.ipynb)
+      - [ Cats vs Dogs with Data Augmentation](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/2.%20Risk%20Models%20Using%20Tree-based%20Models.ipynb)
    
   - **Week 3** 
       - [Non-Parametric Estimators for Survival Analysis](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/3.%20Survival%20Estimates%20that%20Vary%20with%20Time.ipynb)
