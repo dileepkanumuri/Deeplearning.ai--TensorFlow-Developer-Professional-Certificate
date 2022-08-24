@@ -47,7 +47,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
       - [Diving deeper into the BBC News archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Diving%20deeper%20into%20the%20BBC%20News%20archive.ipynb)
   
   - **Week 3** 
-      - [ML Interpretation](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/3.%20ML%20Interpretation.ipynb)
+      - [Exploring overfitting in NLP](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/3.%20Exploring%20overfitting%20in%20NLP.ipynb)
 
 
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/KS7XCLG6SU7H)
