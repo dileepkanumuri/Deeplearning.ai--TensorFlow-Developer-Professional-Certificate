@@ -49,6 +49,8 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
   - **Week 3** 
       - [Exploring overfitting in NLP](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/3.%20Exploring%20overfitting%20in%20NLP.ipynb)
 
-
+  - **Week 4** 
+      - [Predicting the next word](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/4.%20Predicting%20the%20next%20word.ipynb)
+      
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/KS7XCLG6SU7H)
        
