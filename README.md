@@ -39,7 +39,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
   - **Week 4** 
       - [Classification Beyond two classes](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/4.%20Classification%20Beyond%20two%20classes.ipynb)
  
-### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
+### Course 3: [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
       - [Estimating Treatment Effect Using Machine Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/1.%20Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
     
