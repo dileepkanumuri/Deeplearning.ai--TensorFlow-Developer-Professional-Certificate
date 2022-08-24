@@ -41,10 +41,10 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
  
 ### Course 3: [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
-      - [Estimating Treatment Effect Using Machine Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/1.%20Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
+      - [Explore the BBC news archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/1.%20Explore%20the%20BBC%20news%20archive.ipynb)
     
   - **Week 2** 
-      - [Natural Language Entity Extraction](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/2.%20Natural%20Language%20Entity%20Extraction.ipynb)
+      - [Diving deeper into the BBC News archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Diving%20deeper%20into%20the%20BBC%20News%20archive.ipynb)
   
   - **Week 3** 
       - [ML Interpretation](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/3.%20ML%20Interpretation.ipynb)
