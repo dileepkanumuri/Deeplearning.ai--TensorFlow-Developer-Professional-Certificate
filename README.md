@@ -64,5 +64,5 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
   - **Week 4** 
       - [Adding CNNs to improve forecasts](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/4.%20Adding%20CNNs%20to%20improve%20forecasts.ipynb)
       
-[CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/KS7XCLG6SU7H)
+[CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/YEYFC9ZSVZFQ)
        
