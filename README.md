@@ -54,7 +54,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
  
 ### Course 4: [Sequences, Time Series and Prediction](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
-      - [Explore the BBC news archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/1.%20Explore%20the%20BBC%20news%20archive.ipynb)
+      - [Working with generated time series](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/1.%20Working%20with%20generated%20time%20series.ipynb)
     
   - **Week 2** 
       - [Diving deeper into the BBC News archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Diving%20deeper%20into%20the%20BBC%20News%20archive.ipynb)
