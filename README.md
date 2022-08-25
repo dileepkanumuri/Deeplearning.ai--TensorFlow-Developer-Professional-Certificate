@@ -57,7 +57,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
       - [Working with generated time series](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/1.%20Working%20with%20generated%20time%20series.ipynb)
     
   - **Week 2** 
-      - [Diving deeper into the BBC News archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Diving%20deeper%20into%20the%20BBC%20News%20archive.ipynb)
+      - [ Forecasting Using Neural Networks](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Diving%20deeper%20into%20the%20BBC%20News%20archive.ipynb)
   
   - **Week 3** 
       - [Exploring overfitting in NLP](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/3.%20Exploring%20overfitting%20in%20NLP.ipynb)
