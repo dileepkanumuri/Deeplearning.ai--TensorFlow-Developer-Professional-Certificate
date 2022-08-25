@@ -25,8 +25,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
   - **Week 4**
       - [4. Handling Complex Images](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/4.%20Handling%20Complex%20Images.ipynb)
 
-### Course 2: [Convolutional Neural Networks in TensorFlow](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
-  
+### Course 2: [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice)
   - **Week 1**
       - [Cats vs Dogs](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/1.%20Cats%20vs%20Dogs.ipynb)
    
