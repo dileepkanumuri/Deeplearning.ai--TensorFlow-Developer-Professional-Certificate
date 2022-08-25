@@ -60,7 +60,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
       - [Forecasting Using Neural Networks](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/2.%20Forecasting%20Using%20Neural%20Networks.ipynb)
   
   - **Week 3** 
-      - [Exploring overfitting in NLP](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/3.%20Exploring%20overfitting%20in%20NLP.ipynb)
+      - [Forecast using RNNs or LSTMs](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/3.%20Forecast%20using%20RNNs%20or%20LSTMs.ipynb)
 
   - **Week 4** 
       - [Predicting the next word](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/4.%20Predicting%20the%20next%20word.ipynb)
