@@ -6,8 +6,6 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
 
 ## Specialization Info
 
-
-
 ## Credits
 
 
