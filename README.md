@@ -1,4 +1,5 @@
 # Coursera DeepLearning.AI TensorFlow Developer (offered by deeplearning.ai)
+![image](https://user-images.githubusercontent.com/45831222/188260468-ea7ec230-674f-402e-8dec-3fd70775024c.png)
 
 Programming assignments, labs and quizzes from all courses in the Coursera [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) offered by `deeplearning.ai`.
 
