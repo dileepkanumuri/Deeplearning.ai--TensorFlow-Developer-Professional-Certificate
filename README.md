@@ -18,8 +18,7 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
    
   - **Week 2** - [2. Implementing Callbacks in TensorFlow using the MNIST](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/2.%20Implementing%20Callbacks%20in%20TensorFlow%20using%20the%20MNIST.ipynb)
   - **Week 3** - [3. Improve MNIST with convolutions](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/3.%20Improve%20MNIST%20with%20convolutions.ipynb)
-  - **Week 4**
-      - [4. Handling Complex Images](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/4.%20Handling%20Complex%20Images.ipynb)
+  - **Week 4** - [4. Handling Complex Images](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/4.%20Handling%20Complex%20Images.ipynb)
 
 ### Course 2: [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice)
   - **Week 1**
