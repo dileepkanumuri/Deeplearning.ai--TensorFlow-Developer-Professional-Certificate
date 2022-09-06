@@ -21,11 +21,9 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
   - **Week 4** - [Handling Complex Images](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning%20specialization/4.%20Handling%20Complex%20Images.ipynb)
 
 ### Course 2: [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice)
-  - **Week 1**
-      - [Cats vs Dogs](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/1.%20Cats%20vs%20Dogs.ipynb)
+  - **Week 1** - [Cats vs Dogs](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/1.%20Cats%20vs%20Dogs.ipynb)
    
-  - **Week 2** 
-      - [Cats vs Dogs with Data Augmentation](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/2.%20Cats%20vs%20Dogs%20with%20Data%20Augmentation.ipynb)
+  - **Week 2** - [Cats vs Dogs with Data Augmentation](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/2.%20Cats%20vs%20Dogs%20with%20Data%20Augmentation.ipynb)
    
   - **Week 3** 
       - [Transfer Learning - Horses vs Humans](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/3.%20Transfer%20Learning%20-%20Horses%20vs%20Humans.ipynb)
