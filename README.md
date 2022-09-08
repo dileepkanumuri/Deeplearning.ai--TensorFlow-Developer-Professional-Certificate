@@ -27,12 +27,10 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
    
   - **Week 3** - [Transfer Learning - Horses vs Humans](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/3.%20Transfer%20Learning%20-%20Horses%20vs%20Humans.ipynb)
   
-  - **Week 4** 
-      - [Classification Beyond two classes](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/4.%20Classification%20Beyond%20two%20classes.ipynb)
+  - **Week 4** - [Classification Beyond two classes](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/4.%20Classification%20Beyond%20two%20classes.ipynb)
  
 ### Course 3: [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice)
-  - **Week 1** 
-      - [Explore the BBC news archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/1.%20Explore%20the%20BBC%20news%20archive.ipynb)
+  - **Week 1** - [Explore the BBC news archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/1.%20Explore%20the%20BBC%20news%20archive.ipynb)
     
   - **Week 2** 
       - [Diving deeper into the BBC News archive](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Diving%20deeper%20into%20the%20BBC%20News%20archive.ipynb)
