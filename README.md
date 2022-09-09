@@ -39,13 +39,13 @@ Programming assignments, labs and quizzes from all courses in the Coursera [Deep
   - **Week 4** - [Predicting the next word](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/4.%20Predicting%20the%20next%20word.ipynb)
  
 ### Course 4: [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice)
-  - **Week 1**  - [Working with generated time series](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/1.%20Working%20with%20generated%20time%20series.ipynb)
+  - **Week 1** - [Working with generated time series](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/1.%20Working%20with%20generated%20time%20series.ipynb)
     
   - **Week 2** - [Forecasting Using Neural Networks](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/2.%20Forecasting%20Using%20Neural%20Networks.ipynb)
   
-  - **Week 3**  - [Forecast using RNNs or LSTMs](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/3.%20Forecast%20using%20RNNs%20or%20LSTMs.ipynb)
+  - **Week 3** - [Forecast using RNNs or LSTMs](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/3.%20Forecast%20using%20RNNs%20or%20LSTMs.ipynb)
 
-  - **Week 4**   - [Adding CNNs to improve forecasts](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/4.%20Adding%20CNNs%20to%20improve%20forecasts.ipynb)
+  - **Week 4** - [Adding CNNs to improve forecasts](https://github.com/dileepkanumuri/Deeplearning.ai--TensorFlow-Developer-Professional-Certificate/blob/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/4.%20Adding%20CNNs%20to%20improve%20forecasts.ipynb)
       
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/YEYFC9ZSVZFQ)
        
